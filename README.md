@@ -1,0 +1,1 @@
+Neste repositorio vamos explorar varios desafios proposto pelo curso de git actions que precisamos registrar. Git acitons curso na Udmey tem 12h de duração e 1 exercicio para cada aula 
